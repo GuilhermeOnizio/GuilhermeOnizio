@@ -28,7 +28,9 @@
 
 ![GuilhermeOnizio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeOnizio&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
+
 ### // EN-US
+
 
 ### Hello, my name is Guilherme Onizio dos Santos !!
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />      <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />      <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
