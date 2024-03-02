@@ -1,16 +1,16 @@
 
-### Salveee eu sou o Guilherme Onizio, Desenvolvedor Back-End!
+## Salveee eu sou o Guilherme Onizio, Desenvolvedor Back-End!
+### Bem vindo ao meu perfil GitHub 👋
+
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />      <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />      <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />      <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />      <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
- ##
 
  ##
 
- 
  ![GuilhermeOnizio's Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeOnizio&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
  #
  
-## Bem vindo ao meu perfil GitHub 👋
+
 
 ### Redes-Sociais:
   
