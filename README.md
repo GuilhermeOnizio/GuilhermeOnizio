@@ -31,7 +31,9 @@
   <a href="https://discord.gg/5JB8ADqbAH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/guilherme-onizio-b71814268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <br>
+  <br>
 </div>
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 <br>
 
 <div align="center">
@@ -40,6 +42,7 @@
  
 </div>
 
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
 <div align="center">
  
